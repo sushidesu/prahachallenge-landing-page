@@ -2,7 +2,7 @@
 
 ## Motivation
 
-We'll make a bunch of real estate websites!
+We'll make a bunch of websites!
 
 I gave it this name in the hope that many wonderful monsters would jump out of the cage.
 
